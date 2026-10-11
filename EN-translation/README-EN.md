@@ -56,6 +56,8 @@
 #### CNC version
 See the BOM sheet
 
+For an English index of the CAD files (which keep their Chinese filenames), see [CAD-INDEX-EN.md](./CAD-INDEX-EN.md).
+
 ## Installation and Configuration Guide
 
 ### printer.cfg
